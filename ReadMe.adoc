@@ -4,7 +4,7 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: Temperature, Pressure and humidity measurement using Arduino and sensor (An IoT experiment)
 
 Describe your project
 
